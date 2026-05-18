@@ -5,5 +5,5 @@ metadata:
 data:
   config.json: |
     {
-      "message": "Message modifie via GitOps"
+      "message": "Message modifie via GitOps 2"
     }
